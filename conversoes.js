@@ -13,6 +13,6 @@ console.log(numero + numerostring)
 //conversao explicita
 
 //Number() - função para converter em numero
-//String() - função para converter em string
+//String() e/ou toString() - função para converter em string
 
 console.log(numero + Number(numerostring))
