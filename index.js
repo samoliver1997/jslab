@@ -5,3 +5,5 @@ function multiplicaPorDez(num) {
    
 const arraySomada = arrayNums.map(multiplicaPorDez)
 console.log(arraySomada)
+
+teste
